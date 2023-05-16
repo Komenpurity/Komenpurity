@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Komenpurity/Komenpurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
+My name is Purity Jepkorir, I am a Software Developer with a hidden side-love for art.
 
-Here are some ideas to get you started:
+## My Skills
+-----
+- HTML
+- CSS
+- Javascript
+- ReactJs
+- JSON 
+- REST APIS
+- Ruby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
