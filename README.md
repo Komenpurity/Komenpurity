@@ -11,5 +11,5 @@ My name is Purity Jepkorir, I am a Software Developer with a hidden side-love fo
 - ReactJs
 - JSON 
 - REST APIS
-- Ruby
+- Ruby on Rails
 
